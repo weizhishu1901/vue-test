@@ -1,10 +1,10 @@
 {
   "name": "vue-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "zhaozuyin <1515503374@qq.com>",
   "private": true,
-  "homepage": "https://weizhishu1901.github.io/vueTest",
+  "homepage": "https://weizhishu1901.github.io/vue-test.github.io",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
